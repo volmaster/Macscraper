@@ -1,0 +1,13 @@
+setup.py
+macscraper/__init__.py
+macscraper/items.py
+macscraper/middlewares.py
+macscraper/pipelines.py
+macscraper/settings.py
+macscraper/spiders/__init__.py
+macscraper/spiders/macspider.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
